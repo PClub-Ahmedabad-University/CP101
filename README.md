@@ -17,7 +17,7 @@ The participants who will complete the course will be provided a _certificate_ o
   - Only Ahmedabad University students are allowed to participate.
   - **The course is specially designed for those who want to start competitive programming** and want to start solving at least one question in coding contests.
 
-# For further clarification
+### For further clarification
 + [Introduction to Competitve Programming](https://github.com/PClub-Ahmedabad-University/CP101/blob/master/Introduction%20to%20CP.md)
 + [Resources](https://github.com/PClub-Ahmedabad-University/CP101/blob/master/Resources.md)
 + [Rules & Regulations](https://github.com/PClub-Ahmedabad-University/CP101/blob/master/Rules%20%26%20Regulations.md)
