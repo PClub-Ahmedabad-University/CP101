@@ -22,4 +22,4 @@
     - Furthermore, these resources will be valuable in learning new concepts as well as brushing up your knowledge with some timely quality practice problems.
     - And yes, _do star_ the repository if you like it!
 
-**Special Mention**: Jeet Karia & Rahul Chocha, developers of the platform.
+**Special Mention**: [Jeet Karia](https://github.com/JeetKaria06) & [Rahul Chocha](https://github.com/mrchocha), developers of the platform.

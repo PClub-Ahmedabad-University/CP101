@@ -20,5 +20,5 @@ The participants who will complete the course will be provided a _certificate_ o
 ### For further clarification
 + [Introduction to Competitve Programming](https://github.com/PClub-Ahmedabad-University/CP101/blob/master/Introduction%20to%20CP.md)
 + [Resources](https://github.com/PClub-Ahmedabad-University/CP101/blob/master/Resources.md)
-+ [Rules & Regulations](https://github.com/PClub-Ahmedabad-University/CP101/blob/master/Rules%20%26%20Regulations.md)
++ [Rules & Instructions](https://github.com/PClub-Ahmedabad-University/CP101/blob/master/Rules%20%26%20Instructions.md)
 + [Schedules](https://github.com/PClub-Ahmedabad-University/CP101/blob/master/schedule.md)
