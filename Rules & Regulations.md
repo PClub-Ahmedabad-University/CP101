@@ -17,7 +17,7 @@
    - Discord server: https://discord.gg/Httn2HC 
     
 5. **Do not copy** solutions for the tasks from the problem set either from the internet or from fellow participants. Enough time is available for brainstorming.
-6. Resources will be shared regularly by updating the “Resources” section under Github-Programming Club-CP101  throughout this course. 
+6. Resources will be shared regularly by updating the “Resources” section under [Github-Programming Club-CP101](https://github.com/Programming-Club-Ahmedabad-University/CP101)  throughout this course. 
     - These resources are general purpose resources to help kick start competitive programming. They will contain blogs and videos on basic programming concepts such as ‘Time limits’ and ‘Memory limits’ in tasks, how to tackle ‘Compilation’ and ‘Runtime errors’,  useful concepts to solve tasks A and B in contests, etc.
     - Furthermore, these resources will be valuable in learning new concepts as well as brushing up your knowledge with some timely quality practice problems.
     - And yes, _do star_ the repository if you like it!
