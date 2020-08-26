@@ -16,3 +16,4 @@ The participants who will complete the course will be provided a _certificate_ o
 
   - Only Ahmedabad University students are allowed to participate.
   - **The course is specially designed for those who want to start competitive programming** and want to start solving at least one question in coding contests.
+    
