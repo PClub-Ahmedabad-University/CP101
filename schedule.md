@@ -24,3 +24,4 @@
     - Learning STLs
     - Interesting blogs & video lectures
 
+**Note:** Keep checking the Schedule in the repository to keep track of any changes in the schedule.
