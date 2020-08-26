@@ -1,4 +1,4 @@
-1. A new website has been developed for maintaining the Problem set and the Leaderboard throughout the event. Participants have to register themselves using their Codeforces handle and Ahmedabad University email address.
+1. A new website has been developed for maintaining the Problem set and the Leaderboard throughout the event. **Participants have to register themselves using their Codeforces handle and Ahmedabad University email address**.
     
    - The Codeforces handle has to be recognised under ‘SEAS, Ahmedabad University’ organisation for the handle to be successfully registered on the website as this course is exclusively for Ahmedabad University students.
    - Kindly provide the correct Ahmedabad University email address. This address will be used to send completion certificates at the end.
