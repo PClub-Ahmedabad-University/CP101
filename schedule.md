@@ -4,7 +4,7 @@
 
 **Total contests:** *3*
 
-**Total problems:** *>=50*
+**Total problems:** *>= 50*
 
 **Tentative Schedule for Resource sharing:**
 
