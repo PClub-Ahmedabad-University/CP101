@@ -14,5 +14,5 @@ Through this course, the participants will be **provided with handpicked resourc
 
 The participants who will complete the course will be provided with a completion certificate from the club. The criteria to be eligible for a certificate is to **solve at least 30 questions from the problem set and solve at least 1 question in each of the contests organised.**
 
-Only Ahmedabad University students are allowed to participate.
-**The course is specially designed for those who want to start competitive programming** and want to start solving at least one question in coding contests.
+  - Only Ahmedabad University students are allowed to participate.
+  - **The course is specially designed for those who want to start competitive programming** and want to start solving at least one question in coding contests.
