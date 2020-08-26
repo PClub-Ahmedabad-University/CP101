@@ -1,4 +1,4 @@
-# CP101
+#                                                                     CP101
 
 <p align="center">
   <img src="https://github.com/PClub-Ahmedabad-University/CP101/blob/master/Black_T%20(1).png" height=250 >
@@ -6,7 +6,7 @@
 
 ## ABOUT THE COURSE
 
-Programming Club brings to you the 15-day competitive programming course - CP101, for beginners where participants will get the opportunity to go through intensive resources and question sets which will enable them to kickstart their competitive programming journey and start participating in coding competitions online. 
+Programming Club brings to you the **15-day** competitive programming course - CP101, for beginners where participants will get the opportunity to go through intensive resources and question sets which will enable them to kickstart their competitive programming journey and start participating in coding competitions online. 
 
 The resources section of this course has been designed by identifying the common problems faced by beginners and by surveying the difficulties faced by our coding community. For instance, this document includes the guide to choose the best programming language for competitive programming, pointers to handle runtime and compilation error, methods to avoid Memory Limit and Time Limit Exceeded while coding, the concepts needed to be able to solve at least one question in every contest, etc.
 
