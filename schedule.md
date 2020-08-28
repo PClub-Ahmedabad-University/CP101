@@ -26,7 +26,7 @@
     - Interesting blogs & video lectures - **Will keep updating at every slot**
 
 - Important **Dates & Links** for Contests : 
-    - Mini-contest #1 : **29/08/2020**
+    - [Mini-contest #1](https://www.hackerrank.com/cp101-minicontest-1) : **9:00 PM IST, 29/08/2020**
     - Mini-contest #2 : **03/09/2020**
     - Final-contest #3 : **09/09/2020**
 
