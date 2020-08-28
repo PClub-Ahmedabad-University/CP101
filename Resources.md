@@ -21,3 +21,10 @@ You can practise these few problems to get familiar with your chosen language in
 2. https://www.hackerrank.com/challenges/diagonal-difference/problem
 3. https://www.hackerrank.com/challenges/time-conversion/problem
 
+## Step 4: Kickstarting your Journey in competitive programming
+These resources will kickstart & boost your journey throughout your competitive programming and will make sure that you don't find yourself stuck in pitholes of CP.
+
+1. [Competitive Programming 2.0. Welcome to the second blog in my series… | by Shubham Kumar Jha | The Aparoksha Blog](https://medium.com/the-aparoksha-blog/beginners-guide-to-competitive-programming-60300af1ee92)
+2. [Getting started with the sport of competitive programming - Triveni Mahatha](https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/)
+3. [Some useful C++ tricks for beginners in Competitive Programming](https://www.geeksforgeeks.org/some-useful-c-tricks-for-beginners-in-competitive-programming/?ref=rp)
+
