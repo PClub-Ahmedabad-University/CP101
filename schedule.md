@@ -8,20 +8,28 @@
 
 **Tentative Schedule for Resource sharing:**
 
-- New resources will be added after every 3 to 4 days in the Resources section of the repository.
+- New resources will be added after every _2-3_ days in the Resources section of the repository.
 
 - The resources are organised such that the reader can be comfortable solving tasks A & B of any programming contest after reading, learning and practicing these concepts.
 
-- The resources shared will cover topics such as:
+- The resources shared will cover topics such as (with tentative release dates):
     
-    - Choosing a language
-    - Setting up IDE
-    - Getting familiar with your chosen language
-    - Understanding the Concept of Time and Space Complexity
-    - Basic Math and Data Structures
-    - The Art of Debugging
-    - Advanced Level Concepts for Competitive Programming
-    - Learning STLs
-    - Interesting blogs & video lectures
+    - Choosing a language - **26/09/2020**
+    - Setting up IDE - **26/09/2020**
+    - Getting familiar with your chosen language - **26/09/2020**
+    - Kickstarting your journey in CP - **28/09/2020**
+    - The Art of Debugging - **31/09/2020**
+    - Understanding the Concept of Time and Space Complexity - **TBA**
+    - Basic Math and Data Structures - **TBA**
+    - Learning STLs - **TBA**
+    - Advanced Level Concepts for Competitive Programming - **TBA**
+    - Interesting blogs & video lectures - **Will keep updating at every slot**
 
-**Note:** Keep checking the Schedule in the repository to keep track of any changes in the schedule.
+- Important **Dates & Links** for Contests : 
+    - [Mini-contest #1](https://www.hackerrank.com/cp101-minicontest-1) : **9:00 PM IST, 29/08/2020**
+    - Mini-contest #2 : **03/09/2020**
+    - Final-contest #3 : **09/09/2020**
+
+### **_To be eligible for the certificate and completion of the course you must have atleast 1 AC in all the contest_**
+
+**Note:** Keep checking the Schedule in the repository to keep track of any changes in the schedule or any important update.
