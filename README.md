@@ -18,7 +18,7 @@ The participants who will complete the course will be provided a _certificate_ o
   - **The course is specially designed for those who want to start competitive programming** and want to start solving at least one question in coding contests.
 
 ### For further clarification
-+ [Introduction to Competitve Programming](https://github.com/PClub-Ahmedabad-University/CP101/blob/master/Introduction%20to%20CP.md)
-+ [Resources](https://github.com/PClub-Ahmedabad-University/CP101/blob/master/Resources.md)
-+ [Rules & General Instructions](https://github.com/PClub-Ahmedabad-University/CP101/blob/master/Rules%20%26%20General%20Information.md)
-+ [Schedules](https://github.com/PClub-Ahmedabad-University/CP101/blob/master/schedule.md)
++ [Introduction to Competitve Programming](https://github.com/Programming-Club-Ahmedabad-University/CP101/blob/master/Introduction%20to%20CP.md)
++ [Rules & General Instructions](https://github.com/Programming-Club-Ahmedabad-University/CP101/blob/master/Rules%20%26%20General%20Information.md)
++ [Resources](https://github.com/Programming-Club-Ahmedabad-University/CP101/blob/master/Resources.md)
++ [Schedules](https://github.com/Programming-Club-Ahmedabad-University/CP101/blob/master/schedule.md)
