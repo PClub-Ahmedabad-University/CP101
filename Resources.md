@@ -28,3 +28,13 @@ These resources will kickstart & boost your journey throughout your competitive 
 2. [Getting started with the sport of competitive programming - Triveni Mahatha](https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/)
 3. [Some useful C++ tricks for beginners in Competitive Programming](https://www.geeksforgeeks.org/some-useful-c-tricks-for-beginners-in-competitive-programming/?ref=rp)
 
+## Step 5: The Art of Debugging in programming
+In any type of programming the one of the most quintessential thing is debugging but, it the most tiresome & tedious task (:p). To ease some your debugging tasks in CP, the resources given below might feel much necessary.
+
+1. [Easy & pretty debugging code for C++](https://codeforces.com/blog/entry/3473)
+2. [C++ tricks for competitive programming (for C++ 11)](https://www.geeksforgeeks.org/c-tricks-competitive-programming-c-11/)
+3. [What is the best competitive programming debugging tips? I always code in Vim, Geedit, or Sublime, and I find debugging really tedious](https://www.quora.com/What-are-the-best-competitive-programming-debugging-tips-I-always-code-in-Vim-Geedit-or-Sublime-and-I-find-debugging-really-tedious).
+
+## Some Important YouTube Videos for CP
+
+1. [Starting Competitive Programming - Steps and Mistakes](https://www.youtube.com/watch?v=bVKHRtafgPc).
