@@ -34,3 +34,7 @@ In any type of programming the one of the most quintessential thing is debugging
 1. [Easy & pretty debugging code for C++](https://codeforces.com/blog/entry/3473)
 2. [C++ tricks for competitive programming (for C++ 11)](https://www.geeksforgeeks.org/c-tricks-competitive-programming-c-11/)
 3. [What is the best competitive programming debugging tips? I always code in Vim, Geedit, or Sublime, and I find debugging really tedious](https://www.quora.com/What-are-the-best-competitive-programming-debugging-tips-I-always-code-in-Vim-Geedit-or-Sublime-and-I-find-debugging-really-tedious).
+
+## Some Important YouTube Videos for CP
+
+1. [Starting Competitive Programming - Steps and Mistakes](https://www.youtube.com/watch?v=bVKHRtafgPc).
