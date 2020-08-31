@@ -28,7 +28,7 @@ These resources will kickstart & boost your journey throughout your competitive 
 2. [Getting started with the sport of competitive programming - Triveni Mahatha](https://www.hackerearth.com/practice/notes/getting-started-with-the-sport-of-programming/)
 3. [Some useful C++ tricks for beginners in Competitive Programming](https://www.geeksforgeeks.org/some-useful-c-tricks-for-beginners-in-competitive-programming/?ref=rp)
 
-## Step 5: The Art of Debuggung in programming
+## Step 5: The Art of Debugging in programming
 In any type of programming the one of the most quintessential thing is debugging but, it the most tiresome & tedious task (:p). To ease some your debugging tasks in CP, the resources given below might feel much necessary.
 
 1. [Easy & pretty debugging code for C++](https://codeforces.com/blog/entry/3473)
