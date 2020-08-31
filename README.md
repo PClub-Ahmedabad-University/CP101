@@ -23,4 +23,4 @@ The participants who will complete the course will be provided a _certificate_ o
 + [Rules & General Instructions](https://github.com/Programming-Club-Ahmedabad-University/CP101/blob/master/Rules%20%26%20General%20Information.md)
 + [Resources](https://github.com/Programming-Club-Ahmedabad-University/CP101/blob/master/Resources.md)
 + [Schedules](https://github.com/Programming-Club-Ahmedabad-University/CP101/blob/master/schedule.md)
-+ Solutions to contests held
++ [Solutions to contests held](https://github.com/Programming-Club-Ahmedabad-University/CP101/tree/master/contest_solutions)
