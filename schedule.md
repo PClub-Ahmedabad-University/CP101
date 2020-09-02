@@ -14,12 +14,12 @@
 
 - The resources shared will cover topics such as (with tentative release dates):
     
-    - Choosing a language - **26/09/2020**
-    - Setting up IDE - **26/09/2020**
-    - Getting familiar with your chosen language - **26/09/2020**
-    - Kickstarting your journey in CP - **28/09/2020**
-    - The Art of Debugging - **31/09/2020**
-    - Understanding the Concept of Time and Space Complexity - **TBA**
+    - Choosing a language - **26/08/2020**
+    - Setting up IDE - **26/08/2020**
+    - Getting familiar with your chosen language - **26/08/2020**
+    - Kickstarting your journey in CP - **28/08/2020**
+    - The Art of Debugging - **31/08/2020**
+    - Understanding the Concept of Time and Space Complexity - **02/09/2020**
     - Basic Math and Data Structures - **TBA**
     - Learning STLs - **TBA**
     - Advanced Level Concepts for Competitive Programming - **TBA**
@@ -27,7 +27,7 @@
 
 - Important **Dates & Links** for Contests : 
     - [Mini-contest #1](https://www.hackerrank.com/cp101-minicontest-1) : **3:00 PM IST, 30/08/2020**
-    - Mini-contest #2 : **03/09/2020**
+    - Mini-contest #2 : **04/09/2020**
     - Final-contest #3 : **09/09/2020**
 
 ### **_To be eligible for the certificate and completion of the course you must have atleast 1 AC in all the contest_**
