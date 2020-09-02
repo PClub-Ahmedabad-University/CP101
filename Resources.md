@@ -35,6 +35,13 @@ In any type of programming the one of the most quintessential thing is debugging
 2. [C++ tricks for competitive programming (for C++ 11)](https://www.geeksforgeeks.org/c-tricks-competitive-programming-c-11/)
 3. [What is the best competitive programming debugging tips? I always code in Vim, Geedit, or Sublime, and I find debugging really tedious](https://www.quora.com/What-are-the-best-competitive-programming-debugging-tips-I-always-code-in-Vim-Geedit-or-Sublime-and-I-find-debugging-really-tedious).
 
+##  Understand the Concept of Time and Space Complexity
+You need to find the best solution i.e optimal one learning these two concepts. So dig yourself into these two topics to know how much time and space an algorithm takes to solve a problem.
+
+1. https://www.hackerearth.com/practice/basic-programming/complexity-analysis/time-and-space-complexity/tutorial/#:~:text=Time%20complexity%20of%20an%20algorithm,the%20length%20of%20the%20input.
+2. [Understanding Time Complexity with Simple Examples](https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/)
+3. [Space Complexity](https://www.geeksforgeeks.org/g-fact-86/).
+
 ## Some Important YouTube Videos for CP
 
 1. [Starting Competitive Programming - Steps and Mistakes](https://www.youtube.com/watch?v=bVKHRtafgPc).
