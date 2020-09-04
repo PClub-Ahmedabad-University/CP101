@@ -27,7 +27,7 @@
 
 - Important **Dates & Links** for Contests : 
     - [Mini-contest #1](https://www.hackerrank.com/cp101-minicontest-1) : **3:00 PM IST, 30/08/2020**
-    - Mini-contest #2 : **04/09/2020**
+    - [Mini-contest #2](https://www.hackerrank.com/cp101-mincontest-2) : **9:00 PM IST, 05/09/2020**
     - Final-contest #3 : **09/09/2020**
 
 ### **_To be eligible for the certificate and completion of the course you must have atleast 1 AC in all the contest_**
