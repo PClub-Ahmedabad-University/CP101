@@ -42,6 +42,16 @@ You need to find the best solution i.e optimal one learning these two concepts. 
 2. [Understanding Time Complexity with Simple Examples](https://www.geeksforgeeks.org/understanding-time-complexity-simple-examples/)
 3. [Space Complexity](https://www.geeksforgeeks.org/g-fact-86/).
 
+## Step 7: AWESOMENESS OF MATH & DS/ALGO IN CP [Why?](https://www.geeksforgeeks.org/why-data-structures-and-algorithms-are-important-to-learn/)
+
+The core part for competitive programming is Ds / Algo + perfect amount of math in it to solve any problem with efficient time & space constraints and a proper implementation to solve it.
+
+1. [An awesome list for competitive programming!](https://codeforces.com/blog/entry/23054)
+2. [Must do Math for Competitive Programming](https://www.geeksforgeeks.org/math-in-competitive-programming/)
+3. [Improving your Algorithms & Data Structure Skills | by Daniel Borowski | Tech x Talent](https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f)
+4. [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf)
+
+
 ## Some Important YouTube Videos for CP
 
 1. [Starting Competitive Programming - Steps and Mistakes](https://www.youtube.com/watch?v=bVKHRtafgPc).
