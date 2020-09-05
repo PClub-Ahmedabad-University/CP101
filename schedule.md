@@ -20,8 +20,7 @@
     - Kickstarting your journey in CP - **28/08/2020**
     - The Art of Debugging - **31/08/2020**
     - Understanding the Concept of Time and Space Complexity - **02/09/2020**
-    - Basic Math and Data Structures - **TBA**
-    - Learning STLs - **TBA**
+    - Basic Math and Data Structures with STL's - **05/09/2020**
     - Advanced Level Concepts for Competitive Programming - **TBA**
     - Interesting blogs & video lectures - **Will keep updating at every slot**
 
