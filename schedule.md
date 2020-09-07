@@ -21,7 +21,7 @@
     - The Art of Debugging - **31/08/2020**
     - Understanding the Concept of Time and Space Complexity - **02/09/2020**
     - Basic Math and Data Structures with STL's - **05/09/2020**
-    - Advanced Level Concepts for Competitive Programming - **TBA**
+    - Advanced Level Concepts for Competitive Programming - **07/09/2020**
     - Interesting blogs & video lectures - **Will keep updating at every slot**
 
 - Important **Dates & Links** for Contests : 
