@@ -51,7 +51,17 @@ The core part for competitive programming is Ds / Algo + perfect amount of math 
 3. [Improving your Algorithms & Data Structure Skills | by Daniel Borowski | Tech x Talent](https://medium.com/coderbyte/how-to-get-good-at-algorithms-data-structures-d33d5163353f)
 4. [Competitive Programmer's Handbook](https://cses.fi/book/book.pdf)
 
+## Step 8: ADVANCED LEVEL GUIDES
+
+You can use these resources to strength your grips over harder & complex topics in competitive programming in your CP journey.
+
+1. [Guide-to-Competitive-Programming-Learning-and-improving-Algorithms-through-Contests.pdf](https://drive.google.com/file/d/1Z8bVSt7Af8K7FStJrFLXdfa9Elp4kgAR/view)
+2. [Data Structure and Algorithm]()https://drive.google.com/drive/folders/1szZmcER2CjAFbcqCLitTn_4nyv0wxUjn
+3. [Algorithm Gym:: Graph Algorithms](https://codeforces.com/blog/entry/16221)
+4. [Main Page - Competitive Programming Algorithms](https://cp-algorithms.com/)
 
 ## Some Important YouTube Videos for CP
 
 1. [Starting Competitive Programming - Steps and Mistakes](https://www.youtube.com/watch?v=bVKHRtafgPc).
+2. [Errichto/youtube: codes for my streams and YT videos](https://github.com/Errichto/youtube)
+3. [Start you Journey in CP with AcadBoost/Kalpit Veerval](https://www.youtube.com/watch?v=wAQuoMjw9_g)
