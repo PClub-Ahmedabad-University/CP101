@@ -28,7 +28,7 @@
     - [Mini-contest #1](https://www.hackerrank.com/cp101-minicontest-1) : **3:00 PM IST, 30/08/2020**
     - [Mini-contest #2](https://www.hackerrank.com/cp101-mincontest-2) : **9:00 PM IST, 05/09/2020**
     - [Mini-contest #3](https://www.hackerrank.com/cp101-mini-contest3) : **9:00 PM IST, 09/09/2020**
-    - Final-contest : **TBD**
+    - Final-contest : **12/09/2020**
 
 ### **_To be eligible for the certificate and completion of the course you must have atleast 1 AC i3/4 contests of this course_**
 
